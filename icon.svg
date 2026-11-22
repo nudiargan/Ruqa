@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<defs><symbol id="t2" viewBox="3 2 39 39"><g style="fill:#FBFBF8;stroke:#101722;stroke-width:1.7;stroke-linejoin:round;stroke-linecap:round">
+<path d="M13.2 34.6C13.4 29.4 15.4 26.4 18.4 24C15.6 24.8 13.4 26.6 11.4 26.6C9.2 26.6 8.2 24.4 9.2 22.2C10.6 19 14.2 15.6 15.4 12.2L15.2 7.4L19.4 10.2C20.8 9.6 22.4 9.2 24 9.2C31.8 9.8 36.4 16.8 36.4 26L36.4 34.6Z"/>
+<rect x="9.5" y="34.6" width="26" height="4.6" rx="1.9"/>
+<circle cx="19.8" cy="14.8" r="1.4" style="fill:#101722;stroke:none"/>
+<circle cx="10.9" cy="23.8" r="0.9" style="fill:#101722;stroke:none"/>
+<path d="M27.2 12.4C31 15.4 33.2 19.8 33.4 26" style="fill:none;stroke:#101722;stroke-width:1.4"/></g></symbol></defs>
+<rect width="512" height="512" rx="112" fill="#223247"/>
+<g transform="translate(256 256) scale(1) translate(-256 -256)">
+<rect x="106" y="116" width="300" height="300" rx="36" fill="#7B93AD"/>
+<use xlink:href="#t2" x="106" y="116" width="300" height="300"/>
+<circle cx="396" cy="126" r="48" fill="#129C95" stroke="#223247" stroke-width="9"/>
+<rect x="378" y="104" width="10" height="30" rx="5" fill="#fff"/><circle cx="383" cy="146" r="5.6" fill="#fff"/>
+<rect x="404" y="104" width="10" height="30" rx="5" fill="#fff"/><circle cx="409" cy="146" r="5.6" fill="#fff"/>
+</g>
+</svg>
